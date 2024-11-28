@@ -1,0 +1,22 @@
+body {
+  background-color: #f8f8f8;
+}
+
+form {
+  background-color: #fff;
+  border: 1px solid #d3d3d3;
+}
+
+#formHeader {
+  padding: 20px;
+  border-bottom: 1px solid #d3d3d3;
+  background-color: #f8f8f8;
+}
+
+#registro_empleado {
+  margin-top: 100px;
+}
+
+#datosLab {
+  background-color: rgb(247, 226, 229);
+}
